@@ -1,8 +1,8 @@
 # intro_to_api_final_project_imtiaz
 api for making goals
 
-API Routes!
-Get Method:
+API Routes!<br />
+Get Method:<br />
 /Goals
 This displays all the current goals that have been made in the past.
 
